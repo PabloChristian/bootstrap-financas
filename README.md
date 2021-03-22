@@ -3,7 +3,7 @@ Site simples de Finanças utilizando Bootstrap.
 
 ## Acessando o Site
 Acesse o link abaixo:
-https://pablochristian.github.io/bootstrap-financas/
+https://pablochristian.github.io/bootstrap-html-css-financas/
 
 ## Imagens
 
